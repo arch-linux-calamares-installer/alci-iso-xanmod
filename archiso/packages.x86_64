@@ -137,6 +137,7 @@ alci-calamares
 #alci-calamares-config
 #alci-calamares-config-btrfs
 #alci-calamares-config-dev
+#alci-calamares-config-hardened
 #alci-calamares-config-lts
 #alci-calamares-config-pure
 alci-calamares-config-xanmod-edge
@@ -223,6 +224,7 @@ base-devel
 #test
 xfce4
 xfce4-goodies
+neofetch
 
 
 ##### want to add/use the ArcoLinux repos
