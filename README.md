@@ -8,7 +8,7 @@ Use the correct version of Archiso to build the iso.
 
 Download the content of the github with (use the terminal)
 
-`git clone https://github.com/arch-linux-calamares-installer/alci-iso-xanmod-edge`
+`git clone https://github.com/arch-linux-calamares-installer/alci-iso-xanmod`
 
 # Pacman.conf in archiso folder
 
