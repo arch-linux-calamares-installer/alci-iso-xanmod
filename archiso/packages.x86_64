@@ -267,3 +267,6 @@ chaotic-keyring
 linux-xanmod
 linux-xanmod-headers
 git
+
+#grub theme
+alci-grub-theme-git
