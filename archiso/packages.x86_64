@@ -270,8 +270,8 @@ chaotic-keyring
 #timeshift
 #grub-btrfs
 #timeshift-autosnap
-linux-xanmod
-linux-xanmod-headers
+linux-xanmod-edge-x64v3
+linux-xanmod-edge-x64v3-headers
 git
 
 #grub theme
